@@ -1,6 +1,12 @@
 # wristcast
 i broke my wrist and wrote software for it.
 
+##photos videos etc
+
+![image of cast](http://i.imgur.com/Nw4IHJz.jpg)
+
+##i know how to electric and what is this
+
 i don't expect anybody to use this, ever, but please tell me if you do.
 
 the set-up is as follows, glued, soldered and taped up in an amateur fashion:
@@ -31,9 +37,6 @@ it also functions as a watch! hold the button for about 5 seconds and let go whe
 it's fine-tuned for an 8mhz gemma - holding the button will advance the minute hand very quickly, so you can set the watch (but don't hold the button too long, as this will drop you back into normal mode - set the watch by holding the button in bursts).
 
 yes, you do have to set the watch every time you want to use it. it's not really meant for everyday use. it loses about a minute every two hours. caveat emptor.
-
-##misc
-this was one of my first electronics projects so i'm sure i did a tonne of stuff wrong or inefficiently. originally it used a tonne of floating point and trig, but i converted everything to integer math to fit more than one function on the tiny gemma storage. if anyone does actually have suggestions, i'd honestly like to hear them
 
 ##misc
 this was one of my first electronics projects so i'm sure i did a tonne of stuff wrong or inefficiently. originally it used a tonne of floating point and trig, but i converted everything to integer math to fit more than one function on the tiny gemma storage. if anyone does actually have suggestions, i'd honestly like to hear them, i got it about as small as i could manage. uses about 98% of the storage.
