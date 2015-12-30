@@ -5,6 +5,8 @@ i broke my wrist and wrote software for it.
 
 ![image of cast](http://i.imgur.com/Nw4IHJz.jpg)
 
+note: someone wonderful covered my wrist in leather, which is why my wrist is covered in leather, and for a time i had a vibrating motor attached to 5v, which buzzed when the button was depressed. i got rid of the vibrating motor. don't attach a vibrating motor.
+
 ##i know how to electric and what is this
 
 i don't expect anybody to use this, ever, but please tell me if you do.
