@@ -2,10 +2,13 @@
 i broke my wrist and wrote software for it.
 
 ##photos videos etc
+[![video of cast](http://img.youtube.com/vi/Hs64WwVS5a8/0.jpg)](http://www.youtube.com/watch?v=Hs64WwVS5a8)
 
 ![image of cast](http://i.imgur.com/Nw4IHJz.jpg)
 
 note: someone wonderful covered my wrist in leather, which is why my wrist is covered in leather, and for a time i had a vibrating motor attached to 5v, which buzzed when the button was depressed. i got rid of the vibrating motor. don't attach a vibrating motor.
+
+i only put this out on a whim - no comments, poor code, etc etc. you know the drill. it should work on any gemma but godspeed if you want to customize it.
 
 ##i know how to electric and what is this
 
